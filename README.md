@@ -4,7 +4,8 @@ Tou will find here the group work of Ahmed TAITAI and Alexandre PASQUIOU for the
 
 ## LAB_2
 
-Ex 2.7 \n
+Ex 2.7
+
 Done by Alexandre PASQUIOU.
 
 Ex 2.8
